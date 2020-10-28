@@ -1,4 +1,4 @@
-# A-Frame-VR-
+# A-Frame-VR- with CodeAcademy
 Solar System Project
 
 The purpose of this project is to get more practice with A-Frame to develop a VR application.
